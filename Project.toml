@@ -7,5 +7,5 @@ Jacobi = "83f21c0b-4282-5fbc-9e3f-f6da3d2e584c"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 
 [compat]
-julia = "1.6"
+julia = "1.3"
 
